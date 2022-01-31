@@ -21,6 +21,6 @@ The program defines 5 clusters (k=5) and intialise the means(centroids) of the 5
     </ul>
     <h3>Inferencing</h3>
   <li>The program goes through pixel by pixel</li>
-  <li>Find the nearest centroid<li>
+  <li>Find the nearest centroid</li>
   <li>label/segment the pixel with the label of the cluster</li>
   </ul>
